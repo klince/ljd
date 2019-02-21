@@ -1,0 +1,1 @@
+for /r E:\wwzwLua\Lua %%i in (*.lua) do @python d:\Tools\ljd-master\main.py %%i > %%i.delua pause
